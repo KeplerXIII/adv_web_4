@@ -20,3 +20,17 @@ BRDA:7,1,1,2
 BRF:4
 BRH:4
 end_of_record
+TN:
+SF:src\sorter.js
+FN:1,sortObject
+FN:2,(anonymous_1)
+FNF:2
+FNH:2
+FNDA:1,sortObject
+FNDA:4,(anonymous_1)
+DA:2,4
+LF:1
+LH:1
+BRF:0
+BRH:0
+end_of_record

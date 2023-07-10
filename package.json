@@ -8,6 +8,7 @@
     "lint": "eslint ."
   },
   "author": "",
+  "type": "module",
   "license": "ISC",
   "devDependencies": {
     "@babel/cli": "^7.22.6",
